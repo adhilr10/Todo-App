@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
-[DEPLOY LINK](https://todo-app-six-hazel-53.vercel.app/)
 
+## Deployment
+Check out the live deployment of this project: [Todo App](https://todo-app-six-hazel-53.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
